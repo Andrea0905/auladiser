@@ -46,4 +46,4 @@ LEFT JOIN [dbo].[Items] i ON p.PersonID = i.PersonID
 -- Tipos de indexes
 --   Index Cluster -> Primary Key
 --   Non Cluster Index --> Indices adicionales
---TERmino la clase
+--Termino la clase 1112
